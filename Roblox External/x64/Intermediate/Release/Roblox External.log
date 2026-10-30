@@ -1,0 +1,9 @@
+﻿  Assembling src\memory\luck.asm...
+  main.cpp
+  game.cpp
+  Generating code
+  10 of 121 functions ( 8.3%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Roblox External.vcxproj -> C:\Users\noahr\OneDrive\Dokumenter\C++ Projects\Roblox External\x64\Output\Release\Roblox External.exe

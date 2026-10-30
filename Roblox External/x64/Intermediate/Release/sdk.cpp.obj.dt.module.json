@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\Users\\noahr\\OneDrive\\Dokumenter\\C++ Projects\\Roblox External\\x64\\Intermediate\\Release\\sdk.obj",
+            "outputs": [
+                "C:\\Users\\noahr\\OneDrive\\Dokumenter\\C++ Projects\\Roblox External\\x64\\Intermediate\\Release\\sdk.cpp.obj.dt.module.json",
+                "C:\\Users\\noahr\\OneDrive\\Dokumenter\\C++ Projects\\Roblox External\\x64\\Intermediate\\Release\\sdk.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
